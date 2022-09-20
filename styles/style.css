@@ -1,6 +1,6 @@
 html {
-  font-size: 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Fira Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
 
@@ -17,25 +17,25 @@ p, li {
 
 
 html {
-  background-color: #00539F;
+  background-color: #599b54;
 }
 
+/*  Body styling */
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #CCEFBF;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
-
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #599b54;
   text-shadow: 3px 3px 1px black;
 }
-
 img {
   display: block;
   margin: 0 auto;
+  width: 300px;
 }
