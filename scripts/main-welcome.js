@@ -17,7 +17,7 @@ myImage.onclick = () => {
 
 // code below here is for the name selector feature at the end of the javascript basics
 let myButton = document.querySelector('button');
-// changed h1 to h2 inside the querySelector parentheses for myHeading
+// changed h1 to the id #welcome inside the querySelector parentheses for myHeading
 let myHeading = document.querySelector('#welcome');
 
 //  function setUserName() {
